@@ -6,14 +6,14 @@ Power BI Software
 Excel
 
 # Key Components of the Inventory Analysis Dashboard:
-ABC Classification
-XYZ Classification
-Inventory Turnover Ratio
-Safety Stock Levels
-Estimation of Reorder Levels and Safety stock
-Calculation of Average weekly demands
-Stock Status
-Forecasting for the next time period
+1. ABC Classification
+2. XYZ Classification
+3. Inventory Turnover Ratio
+4. Safety Stock Levels
+5. Estimation of Reorder Levels and Safety stock
+6. Calculation of Average weekly demands
+7. Stock Status
+8. Forecasting for the next time period
 
 # Visualization Used:
 • Stack Area chart: which shows the average, Cummulative of ABC corporation.
